@@ -9,5 +9,8 @@ body{
 }
 
 div {
-	font-weight: : bold;
+	font-weight: bold;
+}
+p.header{
+	font-weight: bold;
 }
